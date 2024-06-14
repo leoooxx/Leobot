@@ -16,7 +16,7 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "West Africa time";
 global.github=process.env.GITHUB|| "https://github.com/leoooxx/Leobot";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaFjpshHAdNQIyzFrd2v";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaFjpshHAdNQIyzFrd2v" ; 
