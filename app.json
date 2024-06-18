@@ -99,7 +99,7 @@
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
       "value": "𝕃𝔼𝕆-𝔹𝕆𝕋",
-      "required": false 
+      "required": true 
     }
   }, 
   "addons": [{ "plan": "heroku-postgresql:essential-1" }],
